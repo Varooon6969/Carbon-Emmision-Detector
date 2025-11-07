@@ -1,0 +1,27 @@
+{
+  "samples": 400,
+  "features": [
+    "residents",
+    "house_size_sqft",
+    "location_type",
+    "income_range",
+    "electricity_kwh",
+    "solar_usage",
+    "lpg_kg",
+    "induction_cooking",
+    "primary_transport",
+    "private_km_per_day",
+    "vehicle_fuel",
+    "carpool_shared",
+    "diet_type",
+    "nonveg_meals_per_week",
+    "waste_kg_per_week",
+    "recycle_compost",
+    "water_liters_per_month"
+  ],
+  "metrics": {
+    "MAE": 43.354457499999924,
+    "RMSE": 54.663570437252694,
+    "R2": 0.7732602262440256
+  }
+}

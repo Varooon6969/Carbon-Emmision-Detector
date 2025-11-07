@@ -1,0 +1,123 @@
+{
+  "fields": [
+    {
+      "name": "residents",
+      "type": "int"
+    },
+    {
+      "name": "house_size_sqft",
+      "type": "float"
+    },
+    {
+      "name": "location_type",
+      "type": "category",
+      "values": [
+        "Urban",
+        "Semi-Urban",
+        "Rural"
+      ]
+    },
+    {
+      "name": "income_range",
+      "type": "category",
+      "values": [
+        "<\u20b915k",
+        "\u20b915k\u2013\u20b930k",
+        "\u20b930k\u2013\u20b950k",
+        "\u20b950k\u2013\u20b91L",
+        ">\u20b91L"
+      ]
+    },
+    {
+      "name": "electricity_kwh",
+      "type": "float"
+    },
+    {
+      "name": "solar_usage",
+      "type": "category",
+      "values": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "name": "lpg_kg",
+      "type": "float"
+    },
+    {
+      "name": "induction_cooking",
+      "type": "category",
+      "values": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "name": "primary_transport",
+      "type": "category",
+      "values": [
+        "Two-wheeler",
+        "Car",
+        "Public Transport",
+        "Bicycle/Walking",
+        "Electric Vehicle"
+      ]
+    },
+    {
+      "name": "private_km_per_day",
+      "type": "float"
+    },
+    {
+      "name": "vehicle_fuel",
+      "type": "category",
+      "values": [
+        "Petrol",
+        "Diesel",
+        "CNG",
+        "Electric",
+        "None"
+      ]
+    },
+    {
+      "name": "carpool_shared",
+      "type": "category",
+      "values": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "name": "diet_type",
+      "type": "category",
+      "values": [
+        "Vegetarian",
+        "Mixed",
+        "Non-Vegetarian"
+      ]
+    },
+    {
+      "name": "nonveg_meals_per_week",
+      "type": "int"
+    },
+    {
+      "name": "waste_kg_per_week",
+      "type": "float"
+    },
+    {
+      "name": "recycle_compost",
+      "type": "category",
+      "values": [
+        "Yes",
+        "No"
+      ]
+    },
+    {
+      "name": "water_liters_per_month",
+      "type": "float"
+    }
+  ],
+  "target": {
+    "name": "monthly_co2_kg",
+    "type": "float"
+  }
+}
