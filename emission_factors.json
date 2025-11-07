@@ -1,0 +1,17 @@
+{
+  "electricity_kg_per_kwh": 0.82,
+  "lpg_kgco2_per_kg": 2.98,
+  "vehicle_kg_per_km": {
+    "Petrol": 0.2,
+    "Diesel": 0.24,
+    "CNG": 0.18,
+    "Electric": 0.082,
+    "None": 0.0
+  },
+  "public_bus_kg_per_km_per_person": 0.089,
+  "veg_meal_kg": 1.5,
+  "chicken_meal_kg": 3.5,
+  "red_meat_meal_kg": 6.0,
+  "waste_kgco2_per_kg": 1.8,
+  "water_kgco2_per_liter": 0.0003
+}

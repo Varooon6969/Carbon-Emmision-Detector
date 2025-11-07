@@ -1,0 +1,401 @@
+residents,house_size_sqft,location_type,income_range,electricity_kwh,solar_usage,lpg_kg,induction_cooking,primary_transport,private_km_per_day,vehicle_fuel,carpool_shared,diet_type,nonveg_meals_per_week,waste_kg_per_week,recycle_compost,water_liters_per_month,monthly_co2_kg
+5,1382.0,Urban,₹50k–₹1L,273.37,No,8.83,No,Public Transport,3.0,None,No,Vegetarian,0,6.24,No,14726.0,412.96
+5,934.0,Urban,₹50k–₹1L,398.5,No,16.66,Yes,Car,13.0,Diesel,No,Mixed,2,4.48,No,19236.0,593.83
+3,1743.0,Urban,₹50k–₹1L,224.91,No,12.4,Yes,Public Transport,2.0,None,No,Non-Vegetarian,6,10.41,No,10401.0,399.33
+5,1769.0,Urban,<₹15k,343.97,No,11.7,No,Car,20.0,Petrol,No,Vegetarian,0,12.95,Yes,8898.0,588.18
+2,1504.0,Rural,₹30k–₹50k,167.05,Yes,16.13,No,Two-wheeler,13.0,Petrol,Yes,Non-Vegetarian,8,2.0,Yes,20521.0,283.79
+4,482.0,Rural,₹30k–₹50k,353.27,Yes,11.59,No,Two-wheeler,37.0,Petrol,Yes,Vegetarian,0,6.15,Yes,15486.0,513.03
+1,862.0,Urban,₹15k–₹30k,128.16,No,14.47,No,Bicycle/Walking,0.0,None,No,Vegetarian,0,7.22,Yes,12783.0,211.63
+1,1584.0,Urban,₹15k–₹30k,453.24,No,17.75,No,Bicycle/Walking,0.0,None,No,Vegetarian,0,6.5,Yes,28024.0,488.4
+5,713.0,Rural,>₹1L,372.17,No,25.97,Yes,Car,22.0,Diesel,No,Mixed,2,11.63,Yes,10649.0,684.14
+4,1796.0,Semi-Urban,>₹1L,392.3,No,12.26,No,Two-wheeler,7.0,Petrol,No,Vegetarian,0,10.23,Yes,14255.0,529.82
+1,2190.0,Rural,₹30k–₹50k,235.18,Yes,5.87,No,Public Transport,1.0,None,No,Non-Vegetarian,6,6.89,Yes,9159.0,264.77
+3,897.0,Urban,<₹15k,417.09,No,17.54,No,Two-wheeler,10.0,Petrol,No,Vegetarian,0,5.75,No,26784.0,549.72
+5,615.0,Rural,>₹1L,301.19,No,21.31,Yes,Car,11.0,Diesel,Yes,Mixed,3,10.68,No,13615.0,543.55
+5,883.0,Urban,>₹1L,404.06,No,10.92,No,Two-wheeler,17.0,Petrol,No,Mixed,4,3.96,No,10684.0,605.42
+2,1779.0,Semi-Urban,<₹15k,439.8,No,8.63,No,Car,31.0,Petrol,Yes,Mixed,1,6.0,Yes,10461.0,576.03
+4,549.0,Semi-Urban,₹15k–₹30k,547.01,Yes,9.82,Yes,Two-wheeler,28.0,Petrol,Yes,Vegetarian,0,8.45,Yes,11920.0,609.88
+5,998.0,Rural,₹15k–₹30k,329.87,No,26.37,Yes,Public Transport,1.0,None,No,Vegetarian,0,5.65,Yes,10212.0,486.04
+2,1879.0,Rural,>₹1L,400.78,Yes,19.82,No,Car,10.0,Petrol,No,Non-Vegetarian,8,10.32,No,13144.0,513.37
+5,2185.0,Semi-Urban,<₹15k,80.0,No,8.35,Yes,Two-wheeler,38.0,Petrol,No,Mixed,3,6.96,Yes,24431.0,445.34
+6,571.0,Semi-Urban,₹50k–₹1L,446.22,No,17.07,No,Car,48.0,Petrol,Yes,Mixed,1,8.98,No,13439.0,777.61
+5,1631.0,Semi-Urban,>₹1L,343.42,No,25.65,No,Public Transport,4.0,None,No,Mixed,1,10.01,Yes,10043.0,539.71
+5,1912.0,Semi-Urban,>₹1L,351.13,No,14.34,No,Two-wheeler,32.0,Petrol,No,Mixed,3,2.8,No,12006.0,634.39
+5,898.0,Rural,₹30k–₹50k,428.3,No,16.21,No,Electric Vehicle,50.0,Electric,Yes,Vegetarian,0,5.38,Yes,14598.0,599.5
+6,1097.0,Urban,₹30k–₹50k,80.0,No,20.18,Yes,Two-wheeler,8.0,Petrol,No,Mixed,4,8.98,Yes,15211.0,360.32
+3,563.0,Semi-Urban,₹30k–₹50k,496.97,No,19.21,Yes,Public Transport,3.0,None,Yes,Non-Vegetarian,7,5.85,Yes,12506.0,603.76
+1,1804.0,Rural,₹50k–₹1L,423.25,Yes,16.03,No,Electric Vehicle,26.0,Electric,Yes,Vegetarian,0,9.57,No,17798.0,456.47
+4,1238.0,Urban,₹30k–₹50k,241.84,No,11.57,No,Public Transport,4.0,None,No,Vegetarian,0,4.33,Yes,12411.0,356.59
+1,435.0,Rural,₹15k–₹30k,402.72,No,10.28,No,Two-wheeler,21.0,Petrol,No,Non-Vegetarian,4,6.56,Yes,17558.0,537.4
+5,1258.0,Urban,<₹15k,301.04,No,12.63,Yes,Bicycle/Walking,0.0,None,Yes,Mixed,1,2.0,Yes,17391.0,393.44
+4,1999.0,Rural,₹15k–₹30k,475.59,No,17.13,No,Two-wheeler,34.0,Petrol,Yes,Mixed,2,7.35,No,12726.0,706.1
+2,1045.0,Semi-Urban,₹15k–₹30k,530.47,No,10.08,No,Car,19.0,Petrol,No,Mixed,2,10.2,No,11829.0,683.1
+3,1269.0,Urban,₹30k–₹50k,421.46,Yes,11.49,Yes,Electric Vehicle,51.0,Electric,No,Mixed,4,5.44,No,10747.0,529.56
+6,1067.0,Urban,₹30k–₹50k,160.45,Yes,16.36,No,Two-wheeler,7.0,Petrol,Yes,Vegetarian,0,8.03,No,14596.0,349.68
+3,1011.0,Rural,₹50k–₹1L,377.99,No,15.77,Yes,Two-wheeler,27.0,Petrol,Yes,Mixed,1,7.52,No,18037.0,566.45
+3,1869.0,Semi-Urban,₹15k–₹30k,428.55,No,16.28,No,Bicycle/Walking,0.0,None,No,Vegetarian,0,5.57,No,18790.0,499.67
+5,632.0,Rural,₹15k–₹30k,389.43,No,18.17,No,Electric Vehicle,22.0,Electric,No,Vegetarian,0,4.94,Yes,13137.0,542.78
+5,1589.0,Rural,₹30k–₹50k,442.82,Yes,13.11,Yes,Two-wheeler,26.0,Petrol,No,Non-Vegetarian,4,2.0,No,4100.0,595.96
+1,681.0,Urban,<₹15k,526.24,No,5.32,Yes,Public Transport,0.0,None,No,Mixed,3,7.72,Yes,13506.0,539.37
+4,634.0,Urban,>₹1L,323.05,No,20.64,No,Public Transport,2.0,None,No,Mixed,4,7.06,Yes,10913.0,490.63
+4,1877.0,Urban,₹15k–₹30k,278.66,No,11.66,No,Two-wheeler,30.0,Petrol,No,Mixed,1,8.04,Yes,20887.0,550.11
+5,569.0,Urban,<₹15k,238.1,No,20.07,No,Car,10.0,Petrol,No,Mixed,3,9.28,No,16808.0,492.48
+1,892.0,Semi-Urban,₹30k–₹50k,422.29,No,19.01,Yes,Two-wheeler,25.0,Petrol,No,Vegetarian,0,6.93,Yes,8306.0,584.84
+2,1576.0,Semi-Urban,<₹15k,359.52,No,15.45,Yes,Two-wheeler,32.0,Petrol,No,Vegetarian,0,8.4,Yes,14876.0,589.19
+5,1202.0,Rural,₹30k–₹50k,252.96,No,11.86,No,Two-wheeler,9.0,Petrol,No,Vegetarian,0,3.33,Yes,16866.0,403.81
+3,473.0,Semi-Urban,₹15k–₹30k,471.84,Yes,20.54,No,Public Transport,1.0,None,No,Mixed,3,7.13,Yes,16957.0,508.17
+6,1969.0,Rural,₹30k–₹50k,401.23,No,17.49,No,Car,45.0,Petrol,No,Mixed,1,7.77,Yes,8631.0,779.9
+5,2008.0,Semi-Urban,₹30k–₹50k,311.34,Yes,24.92,Yes,Bicycle/Walking,0.0,None,Yes,Mixed,3,2.0,No,7656.0,397.63
+1,1528.0,Semi-Urban,₹50k–₹1L,246.32,No,14.76,No,Two-wheeler,32.0,Petrol,Yes,Vegetarian,0,8.27,Yes,9447.0,430.92
+4,777.0,Rural,₹50k–₹1L,395.14,No,10.96,No,Two-wheeler,5.0,Petrol,No,Mixed,3,10.46,Yes,15453.0,538.42
+2,1473.0,Semi-Urban,<₹15k,233.58,Yes,20.72,No,Two-wheeler,30.0,Petrol,Yes,Vegetarian,0,2.81,No,15403.0,385.03
+5,873.0,Semi-Urban,₹30k–₹50k,534.82,No,12.56,Yes,Car,24.0,Diesel,No,Vegetarian,0,7.17,No,6188.0,763.61
+5,959.0,Rural,>₹1L,286.22,No,10.19,No,Public Transport,3.0,None,Yes,Mixed,1,4.9,No,22569.0,428.11
+5,1014.0,Rural,₹30k–₹50k,395.48,No,12.86,No,Two-wheeler,28.0,Petrol,Yes,Mixed,4,5.78,Yes,12535.0,623.02
+1,1732.0,Rural,₹30k–₹50k,420.88,No,5.0,No,Car,34.0,Diesel,No,Vegetarian,0,2.0,No,17626.0,609.87
+2,1179.0,Urban,₹50k–₹1L,89.36,No,13.97,Yes,Public Transport,1.0,None,No,Non-Vegetarian,5,12.28,No,12821.0,275.78
+4,1261.0,Rural,₹50k–₹1L,380.75,No,17.28,Yes,Car,48.0,Petrol,Yes,Vegetarian,0,9.42,No,11424.0,673.96
+6,1528.0,Semi-Urban,<₹15k,182.64,No,12.78,No,Two-wheeler,33.0,Petrol,Yes,Vegetarian,0,6.86,No,15698.0,470.07
+5,1656.0,Semi-Urban,₹30k–₹50k,333.43,No,9.81,No,Public Transport,4.0,None,Yes,Vegetarian,0,10.09,No,9023.0,491.14
+2,1885.0,Urban,>₹1L,162.43,Yes,8.99,No,Two-wheeler,19.0,Petrol,No,Non-Vegetarian,8,8.9,No,12983.0,361.26
+6,705.0,Rural,>₹1L,237.46,Yes,16.51,No,Two-wheeler,31.0,Petrol,No,Mixed,3,4.59,Yes,10285.0,531.98
+6,883.0,Urban,<₹15k,314.93,No,16.17,Yes,Two-wheeler,18.0,Petrol,No,Mixed,1,8.54,Yes,13495.0,563.47
+6,1283.0,Urban,>₹1L,496.32,No,14.09,Yes,Two-wheeler,9.0,Petrol,No,Mixed,3,4.05,Yes,16229.0,653.95
+2,1656.0,Rural,₹50k–₹1L,524.85,No,22.96,Yes,Bicycle/Walking,0.0,None,Yes,Mixed,4,10.73,Yes,7850.0,601.27
+4,1280.0,Rural,>₹1L,247.4,No,9.14,Yes,Bicycle/Walking,0.0,None,No,Non-Vegetarian,5,3.51,Yes,9643.0,352.56
+5,646.0,Semi-Urban,>₹1L,545.84,Yes,20.37,Yes,Public Transport,4.0,None,No,Mixed,4,5.45,No,10356.0,596.58
+4,1490.0,Rural,₹30k–₹50k,336.36,Yes,10.64,No,Public Transport,3.0,None,No,Non-Vegetarian,5,7.81,No,8141.0,437.6
+1,944.0,Rural,₹15k–₹30k,80.0,No,11.74,No,Car,12.0,Petrol,No,Mixed,3,2.0,Yes,9587.0,200.1
+4,1011.0,Rural,₹50k–₹1L,444.07,Yes,16.55,Yes,Car,46.0,Petrol,No,Vegetarian,0,3.45,Yes,13664.0,668.4
+4,1537.0,Semi-Urban,₹50k–₹1L,366.93,No,7.3,Yes,Two-wheeler,12.0,Petrol,No,Mixed,1,9.16,Yes,7456.0,515.06
+4,1455.0,Urban,₹15k–₹30k,425.35,No,5.0,Yes,Two-wheeler,12.0,Petrol,No,Vegetarian,0,10.43,Yes,23185.0,562.88
+4,1510.0,Urban,>₹1L,521.67,No,15.74,No,Bicycle/Walking,0.0,None,Yes,Mixed,3,8.1,Yes,10466.0,615.33
+4,591.0,Urban,>₹1L,493.76,No,16.78,No,Electric Vehicle,49.0,Electric,No,Vegetarian,0,6.16,Yes,7574.0,669.11
+2,885.0,Semi-Urban,₹30k–₹50k,162.01,No,14.08,No,Two-wheeler,13.0,Petrol,No,Non-Vegetarian,7,7.56,No,20023.0,360.85
+2,1645.0,Urban,₹15k–₹30k,109.71,Yes,19.91,No,Two-wheeler,23.0,Petrol,No,Non-Vegetarian,8,8.57,No,15790.0,378.49
+3,1024.0,Rural,₹50k–₹1L,171.85,No,16.75,Yes,Public Transport,2.0,None,No,Vegetarian,0,2.61,Yes,10148.0,278.56
+3,1076.0,Urban,₹50k–₹1L,416.54,Yes,17.0,No,Two-wheeler,30.0,Petrol,No,Mixed,3,4.17,No,8105.0,580.51
+2,742.0,Semi-Urban,<₹15k,333.79,Yes,16.95,Yes,Electric Vehicle,50.0,Electric,No,Vegetarian,0,4.97,Yes,9160.0,435.88
+2,1042.0,Semi-Urban,<₹15k,459.09,No,17.33,No,Car,23.0,Petrol,Yes,Vegetarian,0,9.37,No,14629.0,619.67
+6,1503.0,Rural,₹50k–₹1L,327.77,No,26.82,Yes,Car,16.0,Petrol,No,Mixed,3,6.46,No,14849.0,607.16
+5,1438.0,Semi-Urban,₹50k–₹1L,229.33,No,19.58,No,Two-wheeler,31.0,Petrol,Yes,Mixed,4,4.92,Yes,18025.0,514.41
+3,557.0,Rural,<₹15k,317.82,Yes,7.97,Yes,Car,53.0,Petrol,No,Mixed,4,5.04,Yes,16624.0,611.15
+3,1700.0,Urban,>₹1L,418.59,No,6.55,No,Car,38.0,Petrol,No,Vegetarian,0,2.0,Yes,13189.0,629.84
+2,2009.0,Semi-Urban,₹50k–₹1L,317.01,No,20.75,No,Bicycle/Walking,0.0,None,Yes,Vegetarian,0,2.68,Yes,14888.0,377.69
+5,478.0,Urban,₹30k–₹50k,397.62,No,12.35,Yes,Car,35.0,Diesel,Yes,Mixed,2,6.43,No,15938.0,667.0
+5,1243.0,Semi-Urban,₹15k–₹30k,310.24,No,18.57,No,Bicycle/Walking,0.0,None,No,Vegetarian,0,12.13,Yes,8041.0,472.02
+1,435.0,Rural,₹50k–₹1L,259.62,Yes,8.02,No,Two-wheeler,37.0,Petrol,No,Mixed,3,8.02,No,14224.0,471.34
+3,1436.0,Semi-Urban,<₹15k,574.26,No,5.0,Yes,Two-wheeler,33.0,Petrol,No,Vegetarian,0,9.12,Yes,15526.0,766.35
+2,1824.0,Rural,₹15k–₹30k,225.43,No,10.22,No,Public Transport,1.0,None,Yes,Non-Vegetarian,8,8.09,Yes,4999.0,347.69
+5,921.0,Semi-Urban,₹50k–₹1L,262.89,No,15.24,Yes,Two-wheeler,27.0,Petrol,No,Mixed,2,5.08,No,12189.0,540.52
+4,703.0,Urban,₹50k–₹1L,307.57,No,12.49,Yes,Bicycle/Walking,0.0,None,Yes,Mixed,2,3.78,Yes,14858.0,394.65
+3,727.0,Urban,₹15k–₹30k,462.82,No,11.81,No,Car,48.0,Petrol,Yes,Mixed,2,8.66,Yes,15199.0,707.3
+5,1385.0,Urban,₹30k–₹50k,423.18,No,15.11,No,Car,34.0,Petrol,No,Non-Vegetarian,8,8.51,Yes,17143.0,775.85
+2,1708.0,Semi-Urban,>₹1L,366.16,No,19.46,Yes,Public Transport,1.0,None,Yes,Mixed,1,9.88,Yes,18705.0,474.35
+1,2134.0,Urban,₹30k–₹50k,385.4,No,17.86,No,Car,34.0,Diesel,No,Vegetarian,0,5.39,Yes,9126.0,633.19
+5,2019.0,Urban,₹50k–₹1L,592.33,No,23.37,No,Two-wheeler,8.0,Petrol,No,Mixed,2,7.29,No,5301.0,756.75
+4,1658.0,Rural,<₹15k,529.12,Yes,9.26,No,Car,13.0,CNG,No,Vegetarian,0,7.95,No,22954.0,571.66
+1,1837.0,Semi-Urban,<₹15k,293.67,Yes,12.09,No,Two-wheeler,13.0,Petrol,No,Mixed,3,5.06,Yes,12304.0,351.83
+6,1635.0,Semi-Urban,₹15k–₹30k,203.37,No,10.47,No,Public Transport,2.0,None,No,Mixed,4,11.78,No,11179.0,454.99
+2,545.0,Rural,₹15k–₹30k,152.96,No,17.58,No,Public Transport,4.0,None,No,Vegetarian,0,6.29,No,23413.0,289.27
+3,1269.0,Semi-Urban,₹15k–₹30k,196.27,No,8.4,Yes,Two-wheeler,30.0,Petrol,No,Vegetarian,0,8.93,No,12362.0,460.22
+5,1930.0,Rural,₹50k–₹1L,500.66,No,15.61,Yes,Car,34.0,Diesel,No,Mixed,2,3.63,No,14770.0,798.52
+6,682.0,Urban,₹30k–₹50k,330.43,No,16.24,Yes,Two-wheeler,7.0,Petrol,No,Non-Vegetarian,8,2.18,Yes,19362.0,550.28
+3,1574.0,Rural,₹15k–₹30k,263.58,No,7.75,No,Car,49.0,Diesel,No,Mixed,4,11.26,Yes,16990.0,687.8
+1,1150.0,Semi-Urban,₹15k–₹30k,254.83,No,14.3,No,Two-wheeler,39.0,Petrol,No,Non-Vegetarian,7,4.81,Yes,9943.0,514.06
+6,1232.0,Urban,>₹1L,327.96,Yes,15.58,No,Car,36.0,Petrol,No,Mixed,3,3.61,No,10254.0,614.12
+3,1501.0,Urban,<₹15k,305.61,No,10.66,No,Bicycle/Walking,0.0,None,No,Mixed,2,5.66,No,14008.0,390.75
+2,2179.0,Rural,>₹1L,323.45,Yes,15.96,No,Public Transport,4.0,None,No,Non-Vegetarian,7,10.39,Yes,14393.0,405.05
+4,2109.0,Urban,>₹1L,218.72,No,21.46,No,Two-wheeler,38.0,Petrol,No,Non-Vegetarian,7,4.06,Yes,16637.0,585.28
+5,783.0,Rural,<₹15k,303.42,No,16.34,No,Car,13.0,Petrol,No,Vegetarian,0,11.93,Yes,14222.0,528.08
+3,1325.0,Urban,₹50k–₹1L,230.46,Yes,10.06,No,Public Transport,3.0,None,No,Vegetarian,0,9.44,No,5703.0,327.98
+4,1724.0,Rural,>₹1L,325.48,No,20.66,Yes,Two-wheeler,26.0,Petrol,No,Non-Vegetarian,7,2.0,Yes,15136.0,586.49
+2,984.0,Rural,₹50k–₹1L,325.49,No,19.2,Yes,Public Transport,1.0,None,Yes,Non-Vegetarian,6,12.75,No,9443.0,488.17
+1,1785.0,Rural,>₹1L,392.62,No,17.82,Yes,Two-wheeler,9.0,Petrol,No,Vegetarian,0,8.57,No,9747.0,496.51
+3,660.0,Semi-Urban,₹30k–₹50k,366.22,No,10.33,Yes,Car,38.0,Petrol,No,Non-Vegetarian,6,7.09,Yes,16738.0,652.21
+2,2083.0,Semi-Urban,₹15k–₹30k,235.41,No,12.69,No,Two-wheeler,23.0,Petrol,No,Mixed,1,4.4,No,13836.0,425.43
+3,1521.0,Rural,₹15k–₹30k,319.23,No,10.61,No,Two-wheeler,35.0,Petrol,No,Non-Vegetarian,5,8.51,Yes,14612.0,606.36
+1,1840.0,Rural,<₹15k,273.84,Yes,14.0,No,Car,51.0,CNG,Yes,Vegetarian,0,6.2,Yes,14406.0,446.47
+1,1474.0,Rural,₹50k–₹1L,173.44,No,18.67,Yes,Two-wheeler,12.0,Petrol,Yes,Mixed,4,5.99,No,13333.0,304.61
+2,1541.0,Rural,>₹1L,289.49,No,11.15,Yes,Car,31.0,Diesel,Yes,Mixed,2,6.4,No,17013.0,494.5
+2,893.0,Semi-Urban,₹15k–₹30k,411.76,No,18.24,No,Two-wheeler,38.0,Petrol,No,Mixed,1,8.29,Yes,11406.0,679.91
+1,1876.0,Urban,₹30k–₹50k,534.25,No,13.29,Yes,Public Transport,0.0,None,No,Mixed,1,7.47,No,13707.0,572.36
+1,1389.0,Urban,₹50k–₹1L,553.82,Yes,9.4,No,Electric Vehicle,55.0,Electric,Yes,Non-Vegetarian,5,2.62,No,16962.0,523.21
+4,1263.0,Urban,₹15k–₹30k,220.43,No,9.28,Yes,Car,25.0,Diesel,No,Non-Vegetarian,6,5.45,No,14172.0,513.46
+1,713.0,Rural,₹30k–₹50k,182.3,No,17.52,No,Electric Vehicle,33.0,Electric,No,Mixed,4,7.02,No,15995.0,351.68
+5,506.0,Semi-Urban,₹15k–₹30k,270.73,No,5.08,No,Two-wheeler,33.0,Petrol,No,Non-Vegetarian,8,2.61,Yes,17076.0,581.75
+6,629.0,Semi-Urban,₹50k–₹1L,450.78,Yes,17.78,Yes,Two-wheeler,34.0,Petrol,No,Vegetarian,0,5.45,Yes,18842.0,662.59
+2,810.0,Semi-Urban,₹50k–₹1L,300.78,No,19.03,Yes,Car,10.0,Petrol,No,Mixed,3,3.27,Yes,10912.0,414.38
+4,1944.0,Semi-Urban,₹30k–₹50k,374.78,No,19.28,Yes,Two-wheeler,25.0,Petrol,No,Non-Vegetarian,6,2.46,No,10108.0,616.61
+4,1488.0,Semi-Urban,>₹1L,454.01,No,12.39,No,Car,56.0,Petrol,No,Mixed,4,8.8,No,18081.0,866.34
+1,1324.0,Urban,>₹1L,312.53,No,15.57,No,Car,17.0,Petrol,No,Mixed,3,11.37,No,12736.0,499.47
+5,1105.0,Urban,₹15k–₹30k,202.8,No,16.79,Yes,Two-wheeler,23.0,Petrol,No,Vegetarian,0,9.63,Yes,17075.0,479.02
+3,1741.0,Semi-Urban,<₹15k,223.16,Yes,10.91,No,Car,21.0,Petrol,No,Mixed,1,10.52,Yes,14604.0,411.8
+1,1222.0,Semi-Urban,<₹15k,522.42,Yes,8.67,Yes,Two-wheeler,35.0,Petrol,No,Mixed,3,8.12,Yes,19278.0,621.94
+4,2163.0,Urban,₹30k–₹50k,119.17,No,14.09,No,Car,46.0,Petrol,Yes,Mixed,3,5.15,Yes,5788.0,429.41
+3,1184.0,Semi-Urban,₹50k–₹1L,227.81,No,13.94,No,Public Transport,2.0,None,Yes,Mixed,3,12.24,No,18982.0,413.45
+4,745.0,Urban,₹30k–₹50k,142.99,No,11.6,Yes,Electric Vehicle,53.0,Electric,Yes,Mixed,4,5.24,Yes,15281.0,357.64
+2,2125.0,Rural,>₹1L,419.38,No,14.81,Yes,Two-wheeler,31.0,Petrol,No,Mixed,4,7.19,Yes,10501.0,635.74
+2,1605.0,Semi-Urban,₹50k–₹1L,309.67,No,16.85,No,Two-wheeler,36.0,Petrol,No,Mixed,4,7.03,No,17049.0,595.64
+4,1900.0,Urban,>₹1L,397.18,Yes,8.22,No,Two-wheeler,18.0,Petrol,Yes,Vegetarian,0,6.5,Yes,17753.0,465.33
+6,1155.0,Urban,₹50k–₹1L,414.29,No,16.65,Yes,Electric Vehicle,45.0,Electric,No,Mixed,2,10.84,Yes,11829.0,670.68
+2,1687.0,Urban,>₹1L,361.69,No,17.98,No,Public Transport,1.0,None,Yes,Vegetarian,0,5.08,Yes,24595.0,445.95
+4,2119.0,Urban,>₹1L,267.51,No,13.9,No,Car,13.0,Diesel,No,Mixed,2,11.33,Yes,19985.0,497.73
+6,1917.0,Semi-Urban,>₹1L,314.8,Yes,11.28,No,Two-wheeler,37.0,Petrol,No,Non-Vegetarian,8,4.9,Yes,12147.0,647.82
+3,948.0,Urban,₹50k–₹1L,394.33,No,5.74,Yes,Car,45.0,Petrol,No,Mixed,1,9.68,Yes,10078.0,689.38
+1,2157.0,Urban,>₹1L,237.58,No,12.97,No,Car,42.0,Diesel,No,Mixed,4,2.0,No,17246.0,539.41
+1,1916.0,Rural,>₹1L,314.35,No,14.91,Yes,Two-wheeler,19.0,Petrol,No,Mixed,4,12.27,Yes,7849.0,491.65
+5,2115.0,Semi-Urban,<₹15k,226.46,No,8.78,Yes,Car,43.0,Diesel,No,Non-Vegetarian,8,4.45,Yes,18345.0,660.25
+2,1700.0,Semi-Urban,>₹1L,290.0,Yes,5.0,No,Car,33.0,Petrol,Yes,Mixed,1,5.89,Yes,13389.0,402.35
+2,1213.0,Semi-Urban,<₹15k,253.53,No,5.12,Yes,Two-wheeler,12.0,Petrol,No,Non-Vegetarian,4,6.61,No,17973.0,384.82
+4,592.0,Rural,₹30k–₹50k,316.39,No,16.39,No,Public Transport,1.0,None,No,Non-Vegetarian,7,6.72,No,12076.0,499.43
+1,1605.0,Rural,<₹15k,293.59,No,22.21,No,Bicycle/Walking,0.0,None,No,Mixed,2,3.8,Yes,10754.0,353.19
+2,1204.0,Semi-Urban,₹15k–₹30k,302.36,No,23.53,Yes,Two-wheeler,36.0,Petrol,Yes,Vegetarian,0,7.55,Yes,17150.0,523.21
+6,577.0,Urban,₹30k–₹50k,456.32,No,9.08,Yes,Car,32.0,Petrol,No,Non-Vegetarian,5,7.14,Yes,14613.0,764.24
+2,648.0,Rural,₹50k–₹1L,374.38,No,5.0,No,Two-wheeler,24.0,Petrol,No,Mixed,2,5.33,Yes,14909.0,524.15
+5,905.0,Semi-Urban,<₹15k,427.01,Yes,7.94,No,Public Transport,0.0,None,Yes,Mixed,1,3.66,No,15244.0,455.7
+5,821.0,Rural,₹30k–₹50k,341.82,No,17.61,Yes,Car,46.0,CNG,Yes,Vegetarian,0,10.57,No,15771.0,646.43
+2,460.0,Rural,>₹1L,365.67,Yes,9.18,Yes,Car,36.0,Petrol,No,Vegetarian,0,5.58,No,18302.0,532.0
+5,1546.0,Semi-Urban,>₹1L,334.27,Yes,16.13,No,Public Transport,0.0,None,Yes,Non-Vegetarian,5,7.04,No,18696.0,476.07
+3,1066.0,Rural,>₹1L,328.82,No,24.05,Yes,Electric Vehicle,40.0,Electric,Yes,Vegetarian,0,2.17,Yes,11791.0,460.28
+6,486.0,Rural,₹30k–₹50k,346.4,No,16.43,No,Two-wheeler,38.0,Petrol,Yes,Vegetarian,0,8.95,Yes,21035.0,637.19
+4,416.0,Semi-Urban,>₹1L,248.54,Yes,17.17,No,Two-wheeler,24.0,Petrol,Yes,Mixed,4,9.64,No,12030.0,471.73
+1,1925.0,Urban,<₹15k,440.16,No,14.37,No,Car,40.0,Diesel,Yes,Mixed,1,4.8,No,13742.0,636.73
+3,2151.0,Semi-Urban,<₹15k,225.44,Yes,14.05,Yes,Car,22.0,Petrol,No,Non-Vegetarian,7,7.56,No,17419.0,444.53
+3,1772.0,Semi-Urban,₹50k–₹1L,308.21,No,10.57,Yes,Bicycle/Walking,0.0,None,No,Vegetarian,0,2.0,Yes,15467.0,349.67
+3,1388.0,Semi-Urban,>₹1L,587.26,Yes,9.64,Yes,Car,32.0,Petrol,Yes,Mixed,1,6.69,No,14787.0,637.46
+4,1274.0,Rural,<₹15k,560.06,No,18.38,Yes,Two-wheeler,8.0,Petrol,No,Non-Vegetarian,6,6.32,Yes,10353.0,696.63
+5,1861.0,Rural,<₹15k,412.51,No,16.72,Yes,Electric Vehicle,59.0,Electric,No,Non-Vegetarian,8,9.56,Yes,15051.0,718.84
+1,1000.0,Semi-Urban,₹15k–₹30k,321.35,No,9.72,No,Public Transport,0.0,None,Yes,Vegetarian,0,11.25,No,12043.0,418.23
+4,737.0,Semi-Urban,<₹15k,278.26,Yes,20.04,Yes,Bicycle/Walking,0.0,None,No,Mixed,1,6.72,Yes,11778.0,353.83
+3,1312.0,Rural,>₹1L,532.23,No,12.68,No,Two-wheeler,32.0,Petrol,No,Vegetarian,0,5.6,Yes,17083.0,732.0
+3,1983.0,Semi-Urban,₹50k–₹1L,169.19,Yes,16.95,Yes,Car,49.0,Petrol,Yes,Non-Vegetarian,7,3.13,Yes,15886.0,442.08
+3,563.0,Semi-Urban,₹50k–₹1L,306.47,No,8.96,No,Two-wheeler,30.0,Petrol,No,Non-Vegetarian,5,9.4,Yes,13078.0,569.65
+1,1615.0,Rural,₹50k–₹1L,353.11,No,20.7,No,Car,57.0,Diesel,No,Non-Vegetarian,8,4.01,Yes,9232.0,763.35
+3,540.0,Rural,₹15k–₹30k,211.2,No,14.49,No,Car,29.0,Petrol,No,Non-Vegetarian,7,7.88,Yes,16671.0,504.55
+3,1490.0,Rural,₹30k–₹50k,80.0,No,13.71,Yes,Car,33.0,CNG,Yes,Non-Vegetarian,6,8.08,Yes,18550.0,342.83
+5,1096.0,Semi-Urban,₹15k–₹30k,484.61,Yes,15.67,No,Public Transport,2.0,None,No,Non-Vegetarian,4,6.45,Yes,21900.0,552.89
+4,1112.0,Semi-Urban,₹30k–₹50k,127.9,No,14.59,No,Electric Vehicle,39.0,Electric,Yes,Non-Vegetarian,7,11.54,No,17984.0,411.04
+5,1293.0,Semi-Urban,₹50k–₹1L,501.0,No,5.0,No,Bicycle/Walking,0.0,None,No,Vegetarian,0,6.59,No,13867.0,567.33
+5,521.0,Urban,>₹1L,125.74,No,11.61,No,Public Transport,0.0,None,Yes,Non-Vegetarian,6,14.47,No,17291.0,407.36
+6,585.0,Urban,₹15k–₹30k,273.0,No,16.97,Yes,Public Transport,4.0,None,No,Non-Vegetarian,8,5.32,No,17935.0,517.1
+5,1650.0,Semi-Urban,₹15k–₹30k,474.55,No,11.97,No,Car,15.0,Diesel,Yes,Non-Vegetarian,5,7.21,Yes,14040.0,665.35
+6,552.0,Urban,₹50k–₹1L,568.09,No,16.41,Yes,Bicycle/Walking,0.0,None,No,Vegetarian,0,7.07,Yes,12193.0,659.78
+6,1938.0,Rural,₹50k–₹1L,347.89,No,16.08,No,Public Transport,2.0,None,No,Vegetarian,0,6.09,No,17858.0,513.53
+6,1699.0,Rural,<₹15k,393.65,Yes,15.03,No,Two-wheeler,8.0,Petrol,No,Vegetarian,0,7.53,No,13182.0,510.79
+4,1621.0,Semi-Urban,<₹15k,331.98,No,12.61,No,Public Transport,2.0,None,Yes,Non-Vegetarian,8,5.34,Yes,21882.0,492.55
+1,2009.0,Urban,₹30k–₹50k,633.54,No,10.2,Yes,Two-wheeler,14.0,Petrol,No,Vegetarian,0,5.11,No,14734.0,677.35
+1,1523.0,Rural,₹30k–₹50k,450.56,Yes,19.28,No,Public Transport,3.0,None,No,Vegetarian,0,7.1,No,16704.0,450.29
+3,1314.0,Rural,>₹1L,437.22,No,15.94,No,Car,29.0,Petrol,Yes,Vegetarian,0,3.97,Yes,14188.0,592.71
+5,1555.0,Rural,₹15k–₹30k,363.69,No,15.95,No,Public Transport,3.0,None,No,Mixed,3,3.15,Yes,14222.0,504.88
+5,1192.0,Rural,₹50k–₹1L,254.68,No,15.27,No,Public Transport,3.0,None,Yes,Vegetarian,0,10.11,No,12046.0,443.89
+4,893.0,Urban,<₹15k,420.76,No,12.38,Yes,Public Transport,3.0,None,No,Vegetarian,0,8.83,No,6546.0,537.06
+2,474.0,Rural,>₹1L,373.97,No,9.83,Yes,Two-wheeler,33.0,Petrol,No,Mixed,2,7.16,No,5010.0,598.5
+1,1993.0,Semi-Urban,₹30k–₹50k,335.31,No,15.12,No,Public Transport,2.0,None,No,Mixed,1,9.58,Yes,13629.0,421.99
+3,674.0,Semi-Urban,₹30k–₹50k,332.52,No,10.86,Yes,Two-wheeler,35.0,Petrol,Yes,Vegetarian,0,3.53,No,7200.0,509.15
+4,1761.0,Semi-Urban,<₹15k,327.76,Yes,12.74,No,Bicycle/Walking,0.0,None,Yes,Mixed,1,2.0,Yes,11438.0,346.21
+6,1368.0,Semi-Urban,₹50k–₹1L,408.92,No,12.98,No,Car,20.0,Petrol,No,Vegetarian,0,2.0,No,18707.0,606.01
+2,1441.0,Rural,₹15k–₹30k,409.24,No,22.89,Yes,Public Transport,3.0,None,No,Vegetarian,0,3.92,No,22165.0,487.57
+5,1300.0,Semi-Urban,₹15k–₹30k,324.75,No,12.61,Yes,Public Transport,0.0,None,No,Vegetarian,0,6.86,Yes,12703.0,454.7
+5,1369.0,Urban,₹15k–₹30k,112.04,No,14.82,No,Car,49.0,Petrol,No,Mixed,2,5.8,Yes,10229.0,533.03
+1,788.0,Rural,₹30k–₹50k,601.25,Yes,16.54,No,Public Transport,3.0,None,No,Vegetarian,0,6.78,No,16219.0,538.53
+2,799.0,Urban,₹30k–₹50k,293.69,No,11.97,Yes,Car,27.0,Petrol,Yes,Vegetarian,0,9.85,Yes,6753.0,464.19
+1,1213.0,Rural,₹30k–₹50k,461.96,No,25.08,Yes,Car,27.0,Diesel,No,Vegetarian,0,7.84,No,13140.0,689.2
+2,1409.0,Rural,<₹15k,380.16,No,13.87,No,Two-wheeler,10.0,Petrol,No,Vegetarian,0,8.9,Yes,15846.0,497.08
+1,1264.0,Rural,₹50k–₹1L,394.68,No,16.84,No,Two-wheeler,9.0,Petrol,No,Vegetarian,0,8.73,No,14919.0,505.95
+3,974.0,Semi-Urban,₹15k–₹30k,280.22,No,10.72,No,Public Transport,3.0,None,No,Mixed,3,5.2,No,14026.0,394.66
+4,1769.0,Rural,₹15k–₹30k,406.27,Yes,16.46,No,Public Transport,0.0,None,No,Non-Vegetarian,6,8.58,No,9424.0,513.02
+2,487.0,Urban,₹50k–₹1L,491.13,No,11.71,No,Bicycle/Walking,0.0,None,No,Vegetarian,0,4.45,Yes,14071.0,503.48
+5,476.0,Rural,₹15k–₹30k,197.43,No,9.32,Yes,Two-wheeler,10.0,Petrol,No,Non-Vegetarian,4,4.46,No,20003.0,397.04
+1,1473.0,Rural,₹30k–₹50k,469.83,No,21.41,Yes,Public Transport,4.0,None,No,Vegetarian,0,7.83,Yes,15700.0,530.44
+3,1057.0,Urban,<₹15k,547.72,Yes,19.44,No,Two-wheeler,26.0,Petrol,No,Vegetarian,0,8.17,Yes,9790.0,656.43
+5,451.0,Urban,₹50k–₹1L,324.32,No,15.03,No,Car,35.0,Petrol,No,Vegetarian,0,5.6,No,13716.0,627.17
+1,2088.0,Rural,>₹1L,262.13,No,15.87,No,Two-wheeler,28.0,Petrol,Yes,Vegetarian,0,4.77,No,18404.0,422.02
+6,1648.0,Semi-Urban,>₹1L,380.26,Yes,21.77,No,Public Transport,4.0,None,Yes,Vegetarian,0,4.49,No,15788.0,482.53
+2,691.0,Semi-Urban,₹30k–₹50k,239.42,No,8.9,Yes,Car,10.0,Diesel,No,Vegetarian,0,5.06,Yes,21229.0,352.78
+2,1643.0,Semi-Urban,₹15k–₹30k,136.57,No,11.56,No,Bicycle/Walking,0.0,None,No,Vegetarian,0,6.28,Yes,11724.0,222.13
+3,826.0,Rural,>₹1L,386.12,Yes,15.01,Yes,Public Transport,2.0,None,No,Mixed,4,7.5,Yes,5466.0,432.15
+5,1322.0,Rural,₹15k–₹30k,436.17,No,16.72,No,Two-wheeler,21.0,Petrol,No,Vegetarian,0,3.23,Yes,17237.0,630.46
+1,669.0,Rural,<₹15k,368.46,No,11.72,Yes,Car,21.0,CNG,Yes,Mixed,2,12.52,Yes,13789.0,498.01
+6,2088.0,Urban,₹30k–₹50k,480.14,No,21.08,Yes,Car,59.0,Diesel,Yes,Vegetarian,0,2.15,Yes,9048.0,827.92
+4,1292.0,Semi-Urban,₹30k–₹50k,246.12,No,21.91,No,Public Transport,1.0,None,No,Vegetarian,0,8.3,Yes,13313.0,414.05
+2,1444.0,Rural,<₹15k,602.52,No,12.86,Yes,Two-wheeler,14.0,Petrol,Yes,Non-Vegetarian,6,11.43,No,8280.0,717.24
+4,782.0,Urban,₹30k–₹50k,150.03,Yes,20.48,No,Bicycle/Walking,0.0,None,No,Vegetarian,0,4.34,No,9619.0,265.58
+5,586.0,Semi-Urban,₹50k–₹1L,471.98,No,20.0,No,Public Transport,3.0,None,Yes,Mixed,3,5.45,No,9298.0,625.36
+1,1712.0,Semi-Urban,₹15k–₹30k,177.66,No,19.0,No,Car,48.0,Petrol,No,Mixed,1,5.68,No,9721.0,515.28
+1,1628.0,Rural,<₹15k,262.06,No,12.83,No,Two-wheeler,10.0,Petrol,No,Mixed,4,6.24,Yes,13202.0,369.31
+4,2192.0,Semi-Urban,<₹15k,237.44,No,12.45,No,Public Transport,1.0,None,No,Mixed,2,3.26,No,12459.0,366.72
+6,535.0,Semi-Urban,₹50k–₹1L,529.57,Yes,19.13,Yes,Two-wheeler,8.0,Petrol,Yes,Non-Vegetarian,4,2.0,Yes,13527.0,586.27
+2,582.0,Semi-Urban,<₹15k,120.9,No,15.12,Yes,Car,54.0,Petrol,No,Mixed,1,5.73,Yes,12446.0,494.12
+1,1232.0,Rural,<₹15k,457.12,No,8.14,Yes,Public Transport,0.0,None,Yes,Non-Vegetarian,5,9.47,Yes,8679.0,501.61
+1,990.0,Semi-Urban,>₹1L,467.68,No,20.02,No,Two-wheeler,29.0,Petrol,No,Vegetarian,0,5.52,Yes,14729.0,648.17
+3,1062.0,Semi-Urban,<₹15k,572.07,No,14.77,Yes,Car,39.0,Petrol,No,Non-Vegetarian,8,11.07,No,12316.0,884.42
+5,1570.0,Urban,₹50k–₹1L,286.49,No,21.14,No,Bicycle/Walking,0.0,None,No,Non-Vegetarian,4,3.63,Yes,7202.0,442.42
+3,660.0,Rural,<₹15k,366.11,Yes,17.37,No,Car,24.0,Petrol,Yes,Mixed,1,8.79,Yes,13600.0,492.72
+3,616.0,Semi-Urban,<₹15k,191.96,No,11.01,Yes,Public Transport,0.0,None,Yes,Vegetarian,0,10.44,Yes,18387.0,328.09
+6,2146.0,Urban,<₹15k,322.34,No,15.31,Yes,Car,11.0,Petrol,No,Non-Vegetarian,4,4.89,Yes,16019.0,538.99
+3,1805.0,Rural,₹50k–₹1L,330.17,No,13.02,Yes,Two-wheeler,11.0,Petrol,No,Vegetarian,0,10.18,No,13768.0,492.35
+3,1007.0,Semi-Urban,<₹15k,463.68,No,23.54,Yes,Two-wheeler,34.0,Petrol,No,Mixed,2,10.64,Yes,17625.0,746.65
+6,1964.0,Urban,₹30k–₹50k,356.84,No,20.08,Yes,Two-wheeler,17.0,Petrol,Yes,Non-Vegetarian,5,7.48,No,10403.0,617.47
+6,401.0,Urban,₹50k–₹1L,270.97,No,16.97,No,Public Transport,1.0,None,No,Mixed,3,5.95,No,14673.0,479.43
+5,2141.0,Rural,₹30k–₹50k,645.34,No,10.13,No,Two-wheeler,22.0,Petrol,Yes,Mixed,3,2.0,Yes,16626.0,769.53
+1,777.0,Rural,<₹15k,224.14,No,18.72,Yes,Public Transport,1.0,None,Yes,Vegetarian,0,9.17,No,16831.0,343.43
+5,1124.0,Semi-Urban,₹15k–₹30k,277.68,Yes,15.53,No,Public Transport,1.0,None,No,Mixed,3,8.14,Yes,13624.0,416.12
+2,1675.0,Urban,₹50k–₹1L,411.44,No,19.62,Yes,Public Transport,3.0,None,Yes,Non-Vegetarian,8,10.04,Yes,9204.0,531.95
+3,1056.0,Rural,₹30k–₹50k,431.14,No,7.4,No,Two-wheeler,19.0,Petrol,No,Non-Vegetarian,4,7.23,Yes,18375.0,594.4
+1,1712.0,Semi-Urban,₹30k–₹50k,251.37,Yes,11.16,No,Car,23.0,Diesel,No,Non-Vegetarian,8,2.0,No,16827.0,391.7
+2,2191.0,Semi-Urban,₹15k–₹30k,450.83,No,24.09,No,Public Transport,4.0,None,Yes,Vegetarian,0,5.89,No,13965.0,547.21
+5,2067.0,Rural,₹30k–₹50k,352.2,Yes,27.88,No,Two-wheeler,12.0,Petrol,No,Mixed,3,9.45,Yes,20789.0,550.77
+6,753.0,Rural,<₹15k,217.73,No,8.47,No,Car,44.0,Petrol,Yes,Mixed,4,8.58,No,13620.0,575.52
+6,686.0,Semi-Urban,>₹1L,491.37,No,20.93,Yes,Car,25.0,Diesel,No,Mixed,4,9.79,Yes,18062.0,819.46
+1,1142.0,Urban,<₹15k,177.19,Yes,8.74,No,Two-wheeler,24.0,Petrol,No,Vegetarian,0,8.12,No,14261.0,347.82
+1,1308.0,Urban,<₹15k,433.55,Yes,17.08,Yes,Bicycle/Walking,0.0,None,Yes,Mixed,1,6.86,Yes,18005.0,392.16
+4,497.0,Semi-Urban,<₹15k,228.57,No,17.12,Yes,Public Transport,0.0,None,No,Mixed,3,6.7,No,8199.0,395.49
+2,1565.0,Urban,<₹15k,179.96,No,19.79,Yes,Bicycle/Walking,0.0,None,Yes,Vegetarian,0,8.12,Yes,21099.0,286.8
+3,2183.0,Rural,>₹1L,379.3,No,13.35,No,Car,27.0,Petrol,No,Mixed,1,7.73,No,18445.0,611.11
+2,746.0,Rural,<₹15k,488.29,No,17.3,Yes,Public Transport,4.0,None,No,Mixed,2,2.0,Yes,17845.0,526.52
+2,2038.0,Urban,₹50k–₹1L,431.18,No,12.52,No,Public Transport,1.0,None,Yes,Non-Vegetarian,4,4.36,Yes,11154.0,491.05
+4,1034.0,Urban,₹15k–₹30k,348.64,No,23.68,Yes,Two-wheeler,23.0,Petrol,No,Non-Vegetarian,5,11.69,Yes,9489.0,639.08
+2,1552.0,Semi-Urban,₹15k–₹30k,127.62,No,15.23,Yes,Two-wheeler,23.0,Petrol,No,Mixed,3,6.58,No,11002.0,358.93
+6,1083.0,Semi-Urban,<₹15k,396.62,No,20.38,No,Two-wheeler,11.0,Petrol,No,Vegetarian,0,10.37,Yes,8328.0,613.39
+3,2168.0,Rural,₹15k–₹30k,412.87,Yes,17.86,Yes,Bicycle/Walking,0.0,None,No,Vegetarian,0,6.51,No,18654.0,422.55
+2,498.0,Rural,₹30k–₹50k,362.76,No,23.14,Yes,Two-wheeler,25.0,Petrol,No,Vegetarian,0,9.8,No,9470.0,595.48
+1,1927.0,Rural,₹30k–₹50k,80.0,No,19.16,No,Public Transport,3.0,None,No,Vegetarian,0,7.62,No,11558.0,222.17
+2,1135.0,Rural,₹30k–₹50k,306.86,No,8.77,Yes,Bicycle/Walking,0.0,None,No,Mixed,3,8.11,Yes,13004.0,369.88
+5,1985.0,Urban,₹30k–₹50k,157.66,No,17.8,Yes,Electric Vehicle,49.0,Electric,No,Non-Vegetarian,6,7.65,No,12577.0,474.83
+2,2142.0,Semi-Urban,₹50k–₹1L,169.01,No,10.27,Yes,Car,47.0,Petrol,Yes,Mixed,4,7.94,Yes,22540.0,436.75
+6,983.0,Urban,<₹15k,349.33,No,15.93,Yes,Two-wheeler,10.0,Petrol,No,Mixed,2,8.16,Yes,12269.0,556.34
+2,520.0,Rural,₹30k–₹50k,300.66,No,16.2,No,Two-wheeler,16.0,Petrol,No,Vegetarian,0,7.48,No,18287.0,473.36
+3,1166.0,Urban,₹30k–₹50k,401.37,Yes,12.26,Yes,Car,10.0,Diesel,Yes,Non-Vegetarian,6,8.61,Yes,15810.0,474.66
+2,2019.0,Rural,<₹15k,394.81,No,18.0,No,Two-wheeler,38.0,Petrol,Yes,Vegetarian,0,7.57,Yes,13945.0,599.49
+1,1549.0,Rural,₹30k–₹50k,204.65,No,11.65,Yes,Two-wheeler,36.0,Petrol,No,Non-Vegetarian,7,2.0,Yes,20312.0,431.14
+5,1458.0,Semi-Urban,₹15k–₹30k,121.74,No,13.59,No,Two-wheeler,6.0,Petrol,No,Non-Vegetarian,6,6.74,Yes,18572.0,353.06
+1,587.0,Rural,<₹15k,566.01,Yes,12.34,No,Public Transport,2.0,None,No,Vegetarian,0,16.09,No,15412.0,569.69
+5,532.0,Urban,₹50k–₹1L,400.45,No,11.41,Yes,Car,31.0,Petrol,No,Non-Vegetarian,5,3.28,Yes,14804.0,671.09
+3,1190.0,Urban,₹50k–₹1L,408.72,Yes,5.0,No,Public Transport,1.0,None,No,Vegetarian,0,9.78,No,9960.0,433.56
+1,1739.0,Urban,₹15k–₹30k,593.64,Yes,5.39,No,Bicycle/Walking,0.0,None,Yes,Mixed,4,6.61,No,5858.0,479.13
+1,1832.0,Semi-Urban,₹15k–₹30k,232.9,No,11.83,No,Two-wheeler,35.0,Petrol,No,Vegetarian,0,2.0,Yes,13157.0,441.7
+3,2052.0,Urban,₹50k–₹1L,373.41,No,13.74,Yes,Public Transport,0.0,None,No,Non-Vegetarian,8,6.18,Yes,14484.0,495.8
+3,573.0,Rural,₹30k–₹50k,304.51,No,9.62,No,Public Transport,1.0,None,Yes,Vegetarian,0,5.59,No,9862.0,398.71
+1,1211.0,Urban,₹50k–₹1L,403.76,No,18.54,Yes,Two-wheeler,32.0,Petrol,Yes,Vegetarian,0,9.72,Yes,4000.0,569.71
+2,924.0,Semi-Urban,₹30k–₹50k,390.2,No,24.42,No,Public Transport,1.0,None,No,Non-Vegetarian,5,2.0,Yes,11730.0,482.63
+4,1231.0,Urban,>₹1L,353.23,Yes,16.27,No,Two-wheeler,20.0,Petrol,No,Non-Vegetarian,5,6.98,Yes,11063.0,531.16
+6,924.0,Semi-Urban,>₹1L,525.93,No,19.49,Yes,Car,51.0,Diesel,No,Non-Vegetarian,4,6.09,No,17136.0,993.57
+3,1320.0,Urban,₹50k–₹1L,426.08,Yes,13.85,Yes,Car,45.0,Petrol,Yes,Vegetarian,0,6.64,Yes,14334.0,574.94
+6,1812.0,Semi-Urban,<₹15k,227.36,Yes,7.03,No,Car,32.0,Petrol,No,Mixed,3,7.48,No,11969.0,530.23
+2,1446.0,Urban,>₹1L,349.02,No,15.71,Yes,Bicycle/Walking,0.0,None,No,Vegetarian,0,6.48,Yes,19970.0,405.31
+6,956.0,Urban,>₹1L,293.73,No,18.85,No,Electric Vehicle,10.0,Electric,No,Vegetarian,0,5.95,Yes,7927.0,463.0
+6,1973.0,Urban,₹50k–₹1L,356.36,Yes,19.97,Yes,Car,13.0,Petrol,No,Mixed,1,4.93,Yes,16505.0,502.73
+6,438.0,Semi-Urban,<₹15k,403.22,No,14.21,No,Two-wheeler,21.0,Petrol,Yes,Mixed,2,4.61,No,10811.0,612.72
+5,1838.0,Urban,₹30k–₹50k,172.85,Yes,10.9,Yes,Two-wheeler,39.0,Petrol,Yes,Mixed,2,6.91,No,4065.0,439.65
+1,995.0,Semi-Urban,₹30k–₹50k,219.4,No,16.97,Yes,Car,30.0,Petrol,No,Mixed,2,7.64,No,17376.0,460.26
+5,2143.0,Urban,<₹15k,332.33,No,7.09,Yes,Public Transport,0.0,None,No,Vegetarian,0,6.38,Yes,9122.0,443.09
+1,821.0,Rural,₹50k–₹1L,80.0,No,11.08,No,Car,48.0,Petrol,Yes,Mixed,2,10.13,Yes,12114.0,356.46
+6,1444.0,Rural,₹30k–₹50k,545.27,No,15.1,Yes,Public Transport,3.0,None,No,Vegetarian,0,12.78,Yes,9289.0,692.91
+5,602.0,Semi-Urban,>₹1L,270.07,Yes,28.71,Yes,Car,26.0,Petrol,Yes,Mixed,1,5.5,No,11119.0,485.32
+4,702.0,Rural,₹15k–₹30k,80.0,No,20.81,Yes,Public Transport,4.0,None,No,Non-Vegetarian,5,10.47,Yes,17194.0,310.35
+2,1986.0,Urban,<₹15k,372.51,Yes,20.73,No,Two-wheeler,30.0,Petrol,Yes,Mixed,3,8.84,Yes,14178.0,515.94
+5,1003.0,Urban,₹30k–₹50k,596.44,No,17.04,Yes,Public Transport,0.0,None,No,Vegetarian,0,12.33,Yes,15924.0,721.18
+1,1636.0,Urban,₹15k–₹30k,370.69,No,21.53,No,Electric Vehicle,24.0,Electric,No,Non-Vegetarian,8,10.44,No,10870.0,528.29
+4,450.0,Semi-Urban,₹50k–₹1L,271.63,Yes,13.8,Yes,Two-wheeler,38.0,Petrol,Yes,Mixed,1,8.96,Yes,12192.0,485.02
+6,1330.0,Semi-Urban,₹30k–₹50k,418.47,No,14.55,No,Bicycle/Walking,0.0,None,No,Vegetarian,0,2.56,Yes,15858.0,514.01
+5,2141.0,Rural,>₹1L,488.01,No,13.31,No,Bicycle/Walking,0.0,None,Yes,Vegetarian,0,7.48,Yes,8756.0,575.54
+5,1986.0,Urban,<₹15k,285.92,No,20.97,Yes,Bicycle/Walking,0.0,None,No,Mixed,3,9.25,No,12927.0,471.62
+3,1934.0,Rural,>₹1L,250.11,No,15.6,Yes,Bicycle/Walking,0.0,None,Yes,Vegetarian,0,5.62,Yes,12537.0,334.74
+1,618.0,Rural,>₹1L,319.47,No,24.78,No,Car,15.0,Diesel,No,Mixed,2,12.42,Yes,8826.0,524.74
+4,2136.0,Urban,₹15k–₹30k,408.2,No,13.76,No,Car,45.0,Petrol,No,Mixed,1,7.43,Yes,11738.0,734.33
+1,1772.0,Semi-Urban,₹30k–₹50k,269.84,Yes,24.88,No,Public Transport,3.0,None,No,Non-Vegetarian,4,5.36,Yes,13718.0,333.57
+6,1528.0,Rural,₹30k–₹50k,265.42,Yes,16.03,Yes,Public Transport,1.0,None,No,Non-Vegetarian,4,4.56,No,9037.0,419.12
+2,690.0,Urban,₹30k–₹50k,432.15,No,6.97,Yes,Public Transport,2.0,None,No,Vegetarian,0,9.94,Yes,16882.0,493.48
+1,609.0,Urban,₹15k–₹30k,431.13,No,16.44,No,Public Transport,4.0,None,Yes,Vegetarian,0,8.52,No,13925.0,509.18
+3,605.0,Rural,₹30k–₹50k,247.01,No,19.94,No,Two-wheeler,18.0,Petrol,No,Mixed,3,6.56,Yes,6778.0,463.53
+2,480.0,Rural,₹50k–₹1L,339.97,No,21.85,No,Car,48.0,Diesel,Yes,Non-Vegetarian,7,4.68,Yes,15644.0,643.2
+1,742.0,Rural,<₹15k,155.88,Yes,11.02,No,Bicycle/Walking,0.0,None,No,Mixed,3,2.0,Yes,11625.0,172.82
+6,459.0,Urban,₹15k–₹30k,495.17,No,21.29,No,Bicycle/Walking,0.0,None,No,Vegetarian,0,5.76,Yes,13570.0,614.73
+1,1125.0,Rural,₹30k–₹50k,447.47,Yes,14.84,No,Car,18.0,Diesel,No,Vegetarian,0,13.86,No,12021.0,571.48
+4,2149.0,Semi-Urban,₹30k–₹50k,324.03,No,8.63,Yes,Bicycle/Walking,0.0,None,No,Mixed,4,5.42,Yes,15335.0,420.53
+4,1761.0,Urban,>₹1L,385.65,No,24.15,No,Public Transport,3.0,None,No,Non-Vegetarian,8,2.0,Yes,22389.0,551.86
+4,997.0,Rural,₹30k–₹50k,327.42,Yes,22.49,Yes,Public Transport,0.0,None,No,Mixed,1,6.94,No,8977.0,425.84
+4,621.0,Urban,>₹1L,436.02,No,12.42,No,Bicycle/Walking,0.0,None,No,Vegetarian,0,2.0,Yes,10629.0,481.26
+4,740.0,Urban,₹15k–₹30k,520.34,No,6.84,No,Two-wheeler,33.0,Petrol,Yes,Non-Vegetarian,7,2.0,Yes,11938.0,698.28
+6,2053.0,Semi-Urban,<₹15k,427.93,No,18.55,No,Electric Vehicle,59.0,Electric,No,Mixed,4,2.01,Yes,19724.0,695.18
+5,1456.0,Semi-Urban,>₹1L,394.48,Yes,7.46,No,Two-wheeler,20.0,Petrol,Yes,Vegetarian,0,9.12,Yes,15013.0,500.84
+1,685.0,Semi-Urban,<₹15k,210.22,Yes,20.02,No,Car,51.0,Petrol,No,Vegetarian,0,7.81,Yes,8007.0,528.15
+5,2148.0,Urban,₹15k–₹30k,328.16,No,24.16,Yes,Two-wheeler,18.0,Petrol,Yes,Vegetarian,0,8.44,No,14548.0,550.94
+2,1150.0,Urban,₹15k–₹30k,581.94,No,10.14,No,Two-wheeler,37.0,Petrol,No,Vegetarian,0,9.43,Yes,13685.0,794.23
+4,1024.0,Semi-Urban,₹30k–₹50k,423.44,No,13.76,No,Two-wheeler,5.0,Petrol,No,Mixed,3,13.17,No,6803.0,601.95
+1,1679.0,Rural,₹15k–₹30k,330.43,No,23.9,No,Two-wheeler,15.0,Petrol,No,Mixed,1,6.11,Yes,18007.0,480.34
+3,977.0,Semi-Urban,₹50k–₹1L,357.8,Yes,8.58,Yes,Public Transport,2.0,None,Yes,Mixed,1,6.2,No,13383.0,386.96
+5,736.0,Rural,>₹1L,231.28,No,13.53,Yes,Public Transport,4.0,None,No,Vegetarian,0,3.01,No,16283.0,363.62
+4,975.0,Rural,₹15k–₹30k,439.85,No,21.79,Yes,Two-wheeler,37.0,Petrol,No,Mixed,1,6.26,No,12686.0,735.43
+6,1492.0,Semi-Urban,₹30k–₹50k,308.58,No,11.85,Yes,Car,41.0,Petrol,No,Vegetarian,0,6.98,Yes,12964.0,648.35
+4,928.0,Urban,₹15k–₹30k,286.89,Yes,18.47,Yes,Two-wheeler,13.0,Petrol,Yes,Mixed,3,4.22,Yes,14330.0,401.77
+4,847.0,Semi-Urban,<₹15k,194.73,No,6.76,Yes,Bicycle/Walking,0.0,None,No,Non-Vegetarian,8,12.09,Yes,15815.0,373.47
+6,1662.0,Urban,₹30k–₹50k,414.55,No,8.68,Yes,Public Transport,1.0,None,No,Mixed,2,5.03,Yes,16442.0,545.82
+1,981.0,Rural,>₹1L,477.57,Yes,13.57,Yes,Two-wheeler,30.0,Petrol,No,Non-Vegetarian,8,10.05,Yes,16483.0,597.06
+1,2145.0,Urban,₹50k–₹1L,460.76,No,10.22,Yes,Bicycle/Walking,0.0,None,No,Vegetarian,0,5.96,Yes,6161.0,457.89
+3,1767.0,Semi-Urban,>₹1L,543.62,No,19.86,No,Public Transport,4.0,None,Yes,Non-Vegetarian,5,6.72,Yes,13879.0,648.53
+4,1493.0,Rural,>₹1L,148.27,No,17.58,Yes,Car,56.0,Diesel,No,Vegetarian,0,12.83,Yes,11623.0,664.94
+5,1595.0,Urban,>₹1L,365.41,No,24.62,No,Bicycle/Walking,0.0,None,No,Non-Vegetarian,8,7.4,Yes,10903.0,571.76
+1,1038.0,Rural,₹30k–₹50k,453.41,Yes,17.02,No,Bicycle/Walking,0.0,None,No,Vegetarian,0,6.22,No,12878.0,414.8
+1,2033.0,Rural,<₹15k,454.09,No,21.28,Yes,Car,15.0,Diesel,No,Vegetarian,0,8.47,Yes,18509.0,592.2
+5,1696.0,Rural,<₹15k,340.97,No,13.84,Yes,Car,28.0,Petrol,Yes,Mixed,2,8.52,Yes,17768.0,576.69
+4,1532.0,Semi-Urban,₹15k–₹30k,393.81,Yes,25.03,Yes,Car,18.0,Diesel,No,Non-Vegetarian,7,3.25,No,13462.0,577.5
+2,603.0,Urban,>₹1L,202.96,Yes,22.19,No,Electric Vehicle,21.0,Electric,No,Mixed,3,4.07,Yes,16503.0,317.86
+5,424.0,Rural,₹30k–₹50k,383.04,Yes,14.84,No,Public Transport,0.0,None,No,Vegetarian,0,2.0,Yes,10699.0,423.37
+4,501.0,Urban,₹50k–₹1L,308.44,Yes,11.64,Yes,Two-wheeler,38.0,Petrol,No,Vegetarian,0,2.0,No,18007.0,521.22
+6,857.0,Semi-Urban,₹15k–₹30k,285.09,No,15.97,No,Bicycle/Walking,0.0,None,No,Mixed,3,8.66,Yes,12998.0,471.43
+1,710.0,Semi-Urban,₹30k–₹50k,199.62,No,18.18,No,Car,49.0,Petrol,No,Mixed,1,13.57,No,15781.0,594.67
+6,1903.0,Semi-Urban,₹30k–₹50k,364.94,No,13.87,Yes,Public Transport,0.0,None,No,Vegetarian,0,11.88,No,17698.0,556.37
+4,1708.0,Rural,₹50k–₹1L,310.37,No,12.26,No,Bicycle/Walking,0.0,None,No,Non-Vegetarian,8,4.42,Yes,12759.0,442.61
+3,1061.0,Semi-Urban,₹15k–₹30k,389.54,No,11.48,No,Public Transport,0.0,None,Yes,Non-Vegetarian,7,6.41,Yes,17474.0,505.94
+4,1305.0,Urban,₹30k–₹50k,267.41,No,10.04,Yes,Public Transport,0.0,None,Yes,Non-Vegetarian,6,10.28,Yes,10418.0,439.9
+3,1907.0,Urban,₹50k–₹1L,601.67,No,13.13,No,Two-wheeler,31.0,Petrol,No,Mixed,4,15.05,Yes,9377.0,856.06
+2,1926.0,Urban,₹30k–₹50k,535.61,No,11.27,Yes,Bicycle/Walking,0.0,None,No,Vegetarian,0,5.45,Yes,8963.0,537.83
+5,2019.0,Urban,₹50k–₹1L,438.41,No,17.17,Yes,Two-wheeler,28.0,Petrol,No,Non-Vegetarian,7,8.8,Yes,17655.0,749.57
+2,626.0,Urban,<₹15k,442.56,No,7.43,No,Two-wheeler,36.0,Petrol,No,Mixed,1,9.49,No,12291.0,683.4
+6,1669.0,Rural,₹30k–₹50k,173.69,No,16.12,Yes,Two-wheeler,16.0,Petrol,No,Vegetarian,0,6.94,No,17898.0,429.8
+6,1485.0,Semi-Urban,₹15k–₹30k,481.38,No,18.66,No,Public Transport,0.0,None,No,Mixed,1,3.77,No,13623.0,622.14
+6,1775.0,Rural,₹30k–₹50k,372.38,No,5.0,No,Public Transport,1.0,None,No,Vegetarian,0,5.5,No,9122.0,493.73
+1,618.0,Semi-Urban,₹30k–₹50k,344.73,No,16.02,No,Two-wheeler,9.0,Petrol,No,Mixed,1,9.19,Yes,18410.0,455.25
+3,2058.0,Rural,₹30k–₹50k,335.24,No,17.57,Yes,Two-wheeler,33.0,Petrol,Yes,Mixed,4,4.61,Yes,17530.0,544.19
+2,1555.0,Urban,₹50k–₹1L,383.92,No,7.69,No,Two-wheeler,17.0,Petrol,No,Vegetarian,0,5.26,No,11861.0,503.56
+5,1844.0,Semi-Urban,<₹15k,302.36,No,20.64,No,Bicycle/Walking,0.0,None,No,Mixed,2,8.92,Yes,10918.0,469.81
+6,796.0,Urban,₹30k–₹50k,417.76,No,5.38,No,Bicycle/Walking,0.0,None,No,Mixed,4,7.49,Yes,9907.0,550.42
+3,581.0,Urban,₹15k–₹30k,330.61,No,18.55,No,Public Transport,2.0,None,No,Vegetarian,0,7.61,Yes,12614.0,451.14
+1,1310.0,Urban,₹50k–₹1L,316.54,Yes,12.61,No,Two-wheeler,38.0,Petrol,No,Vegetarian,0,5.48,Yes,15009.0,496.9
+3,1643.0,Semi-Urban,>₹1L,254.65,No,17.11,No,Car,52.0,Petrol,No,Mixed,2,6.78,Yes,14616.0,637.07
+5,1187.0,Semi-Urban,₹15k–₹30k,363.71,No,7.93,No,Bicycle/Walking,0.0,None,No,Non-Vegetarian,6,4.43,No,18953.0,496.6
+1,496.0,Rural,₹15k–₹30k,421.58,No,12.17,No,Two-wheeler,9.0,Petrol,No,Vegetarian,0,3.78,Yes,13497.0,472.58
+2,487.0,Semi-Urban,₹15k–₹30k,481.28,No,7.43,No,Car,37.0,Diesel,No,Vegetarian,0,10.09,Yes,18904.0,747.46
+4,1977.0,Semi-Urban,>₹1L,174.92,Yes,15.76,No,Car,48.0,Diesel,No,Vegetarian,0,8.64,Yes,12338.0,586.7
+6,581.0,Semi-Urban,<₹15k,334.32,No,13.59,No,Two-wheeler,34.0,Petrol,No,Vegetarian,0,2.0,Yes,14396.0,615.28
+6,1294.0,Urban,₹30k–₹50k,419.19,Yes,12.3,No,Two-wheeler,18.0,Petrol,No,Mixed,4,7.64,Yes,17120.0,600.1
+5,792.0,Rural,₹30k–₹50k,213.98,No,15.65,Yes,Car,19.0,Petrol,No,Mixed,1,6.11,No,18288.0,461.24
+4,1219.0,Rural,₹50k–₹1L,266.32,Yes,19.75,Yes,Public Transport,4.0,None,No,Non-Vegetarian,6,2.0,Yes,8784.0,371.74
+5,1145.0,Urban,₹50k–₹1L,214.48,Yes,25.3,No,Two-wheeler,5.0,Petrol,Yes,Mixed,1,8.45,No,12290.0,396.68
+5,2071.0,Urban,₹30k–₹50k,486.51,No,15.42,Yes,Two-wheeler,36.0,Petrol,Yes,Mixed,4,3.61,Yes,17254.0,716.44
+3,556.0,Semi-Urban,₹50k–₹1L,393.62,Yes,16.02,Yes,Two-wheeler,5.0,Petrol,Yes,Non-Vegetarian,8,5.11,No,12028.0,449.11
+5,941.0,Semi-Urban,₹30k–₹50k,377.18,No,15.29,No,Public Transport,0.0,None,No,Vegetarian,0,3.54,Yes,14340.0,492.68
+5,1474.0,Rural,₹50k–₹1L,139.76,Yes,12.32,No,Two-wheeler,15.0,Petrol,No,Vegetarian,0,5.14,Yes,20684.0,332.21
+2,522.0,Urban,>₹1L,455.11,No,10.65,Yes,Two-wheeler,39.0,Petrol,No,Non-Vegetarian,6,6.26,Yes,8990.0,696.58
+5,1067.0,Rural,<₹15k,158.42,No,12.05,Yes,Car,36.0,Diesel,No,Vegetarian,0,7.24,No,22516.0,533.95
+5,1508.0,Semi-Urban,>₹1L,238.31,Yes,8.31,No,Two-wheeler,30.0,Petrol,No,Mixed,2,6.44,Yes,9047.0,482.62
+3,1118.0,Urban,<₹15k,504.57,No,14.14,No,Two-wheeler,10.0,Petrol,No,Mixed,4,9.11,Yes,22817.0,640.06
+1,2049.0,Semi-Urban,₹15k–₹30k,345.75,No,10.74,No,Car,52.0,Petrol,No,Mixed,3,4.41,Yes,17903.0,639.41
+4,874.0,Semi-Urban,₹30k–₹50k,222.01,No,14.52,Yes,Two-wheeler,32.0,Petrol,No,Mixed,3,2.0,Yes,21341.0,494.01
+4,2189.0,Semi-Urban,₹15k–₹30k,144.04,Yes,12.2,No,Public Transport,2.0,None,Yes,Vegetarian,0,4.5,Yes,12462.0,255.64
+3,1793.0,Rural,<₹15k,396.92,Yes,19.25,Yes,Two-wheeler,9.0,Petrol,No,Vegetarian,0,9.69,Yes,21084.0,472.08
+6,1961.0,Rural,₹50k–₹1L,261.31,No,12.56,No,Two-wheeler,10.0,Petrol,No,Mixed,4,5.38,Yes,13444.0,484.44
+6,1320.0,Semi-Urban,₹50k–₹1L,473.15,No,9.88,Yes,Two-wheeler,32.0,Petrol,No,Vegetarian,0,5.78,Yes,15010.0,725.2
+5,1572.0,Urban,₹15k–₹30k,182.07,No,11.65,No,Public Transport,2.0,None,No,Mixed,1,6.25,No,13738.0,354.13
+1,1939.0,Semi-Urban,>₹1L,237.74,No,12.64,Yes,Car,40.0,Petrol,No,Vegetarian,0,5.21,Yes,19439.0,488.81
+6,1018.0,Urban,₹30k–₹50k,307.12,Yes,13.26,No,Public Transport,3.0,None,No,Non-Vegetarian,8,2.0,Yes,18808.0,464.72
+3,977.0,Rural,₹30k–₹50k,377.57,Yes,8.22,No,Public Transport,4.0,None,Yes,Mixed,4,10.57,No,12827.0,448.13
+4,1605.0,Urban,>₹1L,222.41,No,9.33,Yes,Public Transport,3.0,None,Yes,Vegetarian,0,7.8,Yes,17677.0,351.38
+6,1233.0,Semi-Urban,<₹15k,336.96,Yes,9.7,No,Two-wheeler,38.0,Petrol,Yes,Vegetarian,0,5.69,Yes,15220.0,533.61
+4,1899.0,Rural,<₹15k,330.3,No,21.04,No,Two-wheeler,9.0,Petrol,Yes,Vegetarian,0,8.69,No,15115.0,505.41
+3,1111.0,Semi-Urban,>₹1L,299.0,Yes,10.94,No,Two-wheeler,37.0,Petrol,Yes,Vegetarian,0,9.91,Yes,17097.0,479.64
+5,677.0,Semi-Urban,₹15k–₹30k,256.1,Yes,12.79,No,Car,56.0,Diesel,No,Vegetarian,0,7.92,No,9859.0,705.54
+5,1024.0,Rural,₹15k–₹30k,126.3,Yes,16.45,Yes,Two-wheeler,26.0,Petrol,No,Non-Vegetarian,8,9.27,No,18897.0,484.99
+1,1347.0,Semi-Urban,>₹1L,497.87,No,26.86,No,Car,39.0,Petrol,Yes,Vegetarian,0,8.54,Yes,11647.0,700.94
